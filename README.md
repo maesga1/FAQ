@@ -8,4 +8,4 @@ Desarrollo web Front-end
 Conceptos básicos de HTML
 CSS
 JavaScript
-Desarrollo web Back-end
+Desarrollo web Back-end.
